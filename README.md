@@ -15,6 +15,7 @@
 # Outputs
 # Clean Simple Architecture
 <img width="465" alt="yapi" src="https://user-images.githubusercontent.com/34205493/105364094-cdae1400-5c0d-11eb-8695-4f568dabf3f3.png">
+<br>
 # Libraries and tools
 <ul>
   <li><a href="https://square.github.io/retrofit/">Retrofit2</a></li>
