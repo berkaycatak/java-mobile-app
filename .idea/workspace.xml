@@ -31,6 +31,8 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/data/kayipHayvanlar.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/data/kayipHayvanlar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/images/gorsel1kapak.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/api/images/gorsel1kapak.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,9 +197,9 @@
       <screen x="0" y="25" width="1440" height="802" />
     </state>
     <state width="1396" height="204" key="GridCell.Tab.1.right/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611224653887" />
-    <state x="503" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611223738365">
+    <state x="503" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611224780159">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
-    <state x="503" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611223738365" />
+    <state x="503" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611224780159" />
   </component>
 </project>
