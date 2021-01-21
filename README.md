@@ -7,12 +7,15 @@
 <br>
 # Outputs
 # Clean Simple Architecture
+![kp](hhttps://user-images.githubusercontent.com/34205493/105363212-d81bde00-5c0c-11eb-9b91-5588fd21a84a.png)
+<br>
+
 # Libraries and tools
 <ul>
-  <li>Retrofit2</li>
-  <li>Observer</li>
-  <li>Glide</li>
-  <li>RxJava</li>
+  <li><a href="https://square.github.io/retrofit/">Retrofit2</a></li>
+  <li><a href="https://developer.android.com/reference/android/arch/lifecycle/Observer">Observer</a></li>
+  <li><a href="https://bumptech.github.io/glide/doc/download-setup.html">Glide</a></li>
+  <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 </ul>
 # License
 Copyright 2021 Berkay Çatak...
