@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_sifir">0dp</dimen>
+    <dimen name="app_banner">195dp</dimen>
+    <dimen name="app_cardViewPadding">16dp</dimen>
+
+    <dimen name="app_cardViewTitle">18sp</dimen>
+    <dimen name="app_cardViewText">16sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
