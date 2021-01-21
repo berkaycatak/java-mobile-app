@@ -1,11 +1,13 @@
 package com.H5190058.berkay_catak_final.activity;
 
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
+import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -16,6 +18,7 @@ import com.H5190058.berkay_catak_final.model.KayipModel;
 import com.H5190058.berkay_catak_final.network.Service;
 import com.H5190058.berkay_catak_final.util.Constants;
 import com.H5190058.berkay_catak_final.util.ObjectUtil;
+import com.H5190058.berkay_catak_final.util.ProgressDialogUtil;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -43,7 +46,7 @@ public class HomeActivity extends AppCompatActivity {
     }
 
     void kayiplariGetir() {
-
+        ProgressDialogUtil.createProgressDialog(HomeActivity.this, this.getResources().getString(R.string.yukleniyor));
         new Service().getServiceApi().kayiplariGetir().
                 subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
@@ -76,6 +79,7 @@ public class HomeActivity extends AppCompatActivity {
                         if(kayiplar.size()>0) {
                             initRecycleView(kayiplar);
                         }
+                        ProgressDialogUtil.destroyProgressDialog();
                     }
                 });
     }
@@ -100,6 +104,31 @@ public class HomeActivity extends AppCompatActivity {
         String tiklananBurcString = ObjectUtil.kayipToJsonString(tiklananIlan);
         yeniIntent.putExtra(Constants.TASINAN_BASLIK, tiklananBurcString);
         startActivity(yeniIntent);
+    }
+
+    @Override
+    public void onBackPressed() {
+        cikisUyarisi();
+    }
+
+    private void cikisUyarisi(){
+        final AlertDialog.Builder builder = new AlertDialog.Builder( HomeActivity.this );
+        builder.setMessage(getResources().getString(R.string.cikisYazi));
+        builder.setCancelable( true );
+        builder.setNegativeButton( getResources().getString(R.string.cikisButon2),new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+                dialogInterface.cancel();
+            }
+        });
+        builder.setPositiveButton( getResources().getString(R.string.cikisButon1), new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+                finish();
+            }
+        });
+        AlertDialog alertDialog = builder.create();
+        alertDialog.show();
     }
 
 }

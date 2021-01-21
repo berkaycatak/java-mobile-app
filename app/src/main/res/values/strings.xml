@@ -4,14 +4,14 @@
     <string name="card_view_tur">Türü: </string>
     <string name="card_view_adi">Adı: </string>
     <string name="card_view_tarih">Tarihi: 20 Ocak 2021: </string>
-    <string name="title_activity_main">MainActivity</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label">First Fragment</string>
-    <string name="second_fragment_label">Second Fragment</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="cikis">Uygulamadan Çık</string>
+    <string name="cikisYazi">Uygulamadan çıkılsın mı?</string>
+    <string name="cikisButon1">Evet</string>
+    <string name="cikisButon2">Hayır</string>
+    <string name="internetYok">İnternet olmadan uygulamaya giriş yapamazsınız.</string>
+    <string name="internetYokCikis">Çık</string>
+    <string name="internetYokAyarlar">Ayarlara git</string>
+    <string name="yukleniyor">Lütfen bekleyiniz...</string>
 
 </resources>

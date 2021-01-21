@@ -28,22 +28,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33108d26-ddfe-4029-a2af-b556c627423a" name="Default Changelist" comment="mobil uygulama yükleniyor">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/H5190058/berkay_catak_final/util/InternetUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/H5190058/berkay_catak_final/util/ProgressDialogUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/data/kayipHayvanlar.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/data/kayipHayvanlar.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/images/gorsel1kapak.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/api/images/gorsel1kapak.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/H5190058/berkay_catak_final/activity/HomeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/H5190058/berkay_catak_final/activity/HomeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/H5190058/berkay_catak_final/activity/IlanActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/H5190058/berkay_catak_final/activity/IlanActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/H5190058/berkay_catak_final/activity/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/H5190058/berkay_catak_final/activity/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_2_API_26]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_4_XL_API_30]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -165,22 +186,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="mobil uygulama yükleniyor" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1396" height="204" key="GridCell.Tab.0.bottom" timestamp="1611224653885">
+    <state x="100" y="125" width="1240" height="602" key="AVDManager" timestamp="1611226779059">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
-    <state width="1396" height="204" key="GridCell.Tab.0.bottom/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611224653885" />
-    <state width="1396" height="204" key="GridCell.Tab.0.center" timestamp="1611224653885">
+    <state x="100" y="125" width="1240" height="602" key="AVDManager/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611226779059" />
+    <state x="542" y="207" key="AndroidCreateXmlResourceDialog" timestamp="1611231291806">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
-    <state width="1396" height="204" key="GridCell.Tab.0.center/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611224653885" />
-    <state width="1396" height="204" key="GridCell.Tab.0.left" timestamp="1611224653882">
+    <state x="542" y="207" key="AndroidCreateXmlResourceDialog/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611231291806" />
+    <state width="1396" height="162" key="GridCell.Tab.0.bottom" timestamp="1611225682422">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
-    <state width="1396" height="204" key="GridCell.Tab.0.left/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611224653882" />
-    <state width="1396" height="204" key="GridCell.Tab.0.right" timestamp="1611224653885">
+    <state width="1396" height="162" key="GridCell.Tab.0.bottom/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611225682422" />
+    <state width="1396" height="162" key="GridCell.Tab.0.center" timestamp="1611225682421">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
-    <state width="1396" height="204" key="GridCell.Tab.0.right/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611224653885" />
+    <state width="1396" height="162" key="GridCell.Tab.0.center/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611225682421" />
+    <state width="1396" height="162" key="GridCell.Tab.0.left" timestamp="1611225682421">
+      <screen x="0" y="25" width="1440" height="802" />
+    </state>
+    <state width="1396" height="162" key="GridCell.Tab.0.left/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611225682421" />
+    <state width="1396" height="162" key="GridCell.Tab.0.right" timestamp="1611225682421">
+      <screen x="0" y="25" width="1440" height="802" />
+    </state>
+    <state width="1396" height="162" key="GridCell.Tab.0.right/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611225682421" />
     <state width="1396" height="204" key="GridCell.Tab.1.bottom" timestamp="1611224653887">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
@@ -201,5 +230,9 @@
       <screen x="0" y="25" width="1440" height="802" />
     </state>
     <state x="503" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611224780159" />
+    <state x="385" y="151" width="670" height="676" key="search.everywhere.popup" timestamp="1611225716458">
+      <screen x="0" y="25" width="1440" height="802" />
+    </state>
+    <state x="385" y="151" width="670" height="676" key="search.everywhere.popup/0.25.1440.802/-317.-1055.1920.1055@0.25.1440.802" timestamp="1611225716458" />
   </component>
 </project>
