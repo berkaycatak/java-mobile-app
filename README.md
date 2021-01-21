@@ -14,7 +14,7 @@
 <br>
 # Outputs
 # Clean Simple Architecture
-![kp](hhttps://user-images.githubusercontent.com/34205493/105363212-d81bde00-5c0c-11eb-9b91-5588fd21a84a.png)
+<img width="465" alt="yapi" src="https://user-images.githubusercontent.com/34205493/105364094-cdae1400-5c0d-11eb-8695-4f568dabf3f3.png">
 <br>
 
 # Libraries and tools
