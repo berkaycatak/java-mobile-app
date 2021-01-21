@@ -8,6 +8,12 @@
 # Outputs
 # Clean Simple Architecture
 # Libraries and tools
+<ul>
+  <li>Retrofit2</li>
+  <li>Observer</li>
+  <li>Glide</li>
+  <li>RxJava</li>
+</ul>
 # License
 Copyright 2021 Berkay Çatak...
 
