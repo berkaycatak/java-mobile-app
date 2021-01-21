@@ -15,7 +15,7 @@
 # Outputs
 <div class="">
   <img style="float: left;" width="200" src="https://user-images.githubusercontent.com/34205493/105365154-000c4100-5c0f-11eb-8896-039122c3a5d3.png">
-  <img style="float: left;" src="https://user-images.githubusercontent.com/34205493/105365492-5d07f700-5c0f-11eb-84bc-f4eb28562dd8.png">
+  <img style="float: left;" width="200" src="https://user-images.githubusercontent.com/34205493/105365492-5d07f700-5c0f-11eb-84bc-f4eb28562dd8.png">
 </div>
 
 
